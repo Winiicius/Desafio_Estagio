@@ -21,5 +21,7 @@ public class ContagemLetra {
     
     public static void main(String[] args) {
         System.out.println(contarLetra("rgtdgdDD", 'd'));
+        // Saída:
+        // 4
     }
 }

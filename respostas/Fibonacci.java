@@ -36,4 +36,17 @@ public class Fibonacci {
         System.out.println(isFibonacci(34));
         System.out.println(isFibonacci(55));
     }
+
+    // Saída
+    // true
+    // true
+    // true
+    // true
+    // false
+    // true
+    // false
+    // false
+    // true
+    // true
+    // true
 }
